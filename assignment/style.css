@@ -19,6 +19,10 @@ h1 {
     text-align: center;
     font-family: 'Silkscreen', cursive;
 }
+
+h2{
+    margin-top: 1em;
+}
 /* Make your p tag a different color and italic */
 p {
     color: #52307c;
@@ -28,9 +32,7 @@ p {
 /* Put a border around your image */
 img{
     border: double 5px #52307c;
-    margin: 2em;
-    
-   
+    margin: 2em 2em 0em 2em; 
 }
 
 /* Change the font-family of your list */
